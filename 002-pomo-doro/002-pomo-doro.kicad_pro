@@ -670,13 +670,30 @@
       {
         "filename": "002-pomo-doro.kicad_sch",
         "name": "002-pomo-doro",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "ed4e008b-7bf6-44dd-8b18-bceedb520187"
       }
     ],
-    "used_designators": "",
+    "used_designators": "U1-4",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "ed4e008b-7bf6-44dd-8b18-bceedb520187",
+      "002-pomo-doro"
+    ],
+    [
+      "cc46aca1-854a-4fac-8e86-cf7e505689a4",
+      "power"
+    ],
+    [
+      "f307d6b1-60c5-483c-b544-390c1bed900f",
+      "MCU"
+    ],
+    [
+      "db6b1293-349b-4f2b-963c-4a527335bed9",
+      "peripherals"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
