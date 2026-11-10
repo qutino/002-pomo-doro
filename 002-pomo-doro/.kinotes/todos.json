@@ -19,5 +19,33 @@
     "time_spent": 0,
     "history": [],
     "is_running": false
+  },
+  {
+    "text": "add JTAG",
+    "done": false,
+    "time_spent": 0,
+    "history": [],
+    "is_running": false
+  },
+  {
+    "text": "Power Component selection & wiring",
+    "done": false,
+    "time_spent": 0,
+    "history": [],
+    "is_running": false
+  },
+  {
+    "text": "Peripheral Component selection & wiring",
+    "done": false,
+    "time_spent": 0,
+    "history": [],
+    "is_running": false
+  },
+  {
+    "text": "",
+    "done": false,
+    "time_spent": 0,
+    "history": [],
+    "is_running": false
   }
 ]

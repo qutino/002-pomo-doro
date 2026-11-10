@@ -1,7 +1,7 @@
 # **002-pomo-doro - Design Notes**
 
 ## **Overview**
-<!-- Brief description of the PCB project -->
+Pomodoro timer with a e-paper screen, capacitive touch sensor, battery powered, and rotary encoder.
 
 ## **Schematic Notes**
 <!-- Key circuit blocks, design rationale -->
