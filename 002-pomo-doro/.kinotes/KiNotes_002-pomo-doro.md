@@ -25,3 +25,4 @@ Pomodoro timer with a e-paper screen, capacitive touch sensor, battery powered, 
 *KiNotes - PCBtools.xyz*
 
 
+
