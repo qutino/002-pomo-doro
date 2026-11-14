@@ -52,7 +52,7 @@
     "designator": false
   },
   "pdf_format": "markdown",
-  "timer_interval_ms": 5000,
+  "timer_interval_ms": 60000,
   "enable_time_tracking": true,
   "time_format_24h": true,
   "show_work_diary": true,

@@ -4,7 +4,7 @@
 Pomodoro timer with a e-paper screen, capacitive touch sensor, battery powered, and rotary encoder.
 
 ## **Schematic Notes**
-<!-- Key circuit blocks, design rationale -->
+need programming interface
 
 ## **Layout Considerations**
 <!-- Layer stackup, impedance, keep-outs -->
@@ -23,6 +23,7 @@ Pomodoro timer with a e-paper screen, capacitive touch sensor, battery powered, 
 
 ---
 *KiNotes - PCBtools.xyz*
+
 
 
 
